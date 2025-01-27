@@ -5,9 +5,8 @@
 <img width="100%" align="right" alt="Github" src="https://user-images.githubusercontent.com/82514924/228337660-34b5a78d-773b-4dab-87ae-cc1a0c350e77.jpg" /><br>
 </p>
 
-<h3 align="center">A passionate Computer Engineering student at Faculty of Engineering Cairo University</h3>
+<h3 align="center">A Computer Engineer from Faculty of Engineering Cairo University</h3>
 <h3 align="center">I’m interested in Testing</b></h3>
-- 🌱 I’m currently learning **Computer Graphics, Neural Networks, Cryptography, Embedded Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samaa-Hazem2001](https://github.com/Samaa-Hazem2001).
 
