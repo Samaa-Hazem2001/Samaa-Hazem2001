@@ -15,7 +15,7 @@
 - 🍀 Ask me about anything, I will be happy to help.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samaa hazem mohamed abdellatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samaa hazem mohamed abdellatif" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/samaa-hazem-mohamed-abdellatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samaa hazem mohamed abdellatif" height="30" width="40" /></a>
  
 <a href="samaa.hazem22@gmail.com" target="blank">  
 <img align="left" height="30" width="40" src="https://user-images.githubusercontent.com/56788883/152502680-84c9341e-93cf-4ec9-98a2-e61fd8440eb1.png" draggable="false" /></a>
